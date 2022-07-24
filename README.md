@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Prahmodh-R
 
+- 🌱 I’m currently learning Full Stack Web3 Development
+- 💬 Ask me about ReactJS,Web3,Kubernetes,NodeJS
+- 📫 How to reach me: prahmodhr@gmail.com
+- 😄 Pronouns: he/him
+
 <!--
 **Prahmodh-R/Prahmodh-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

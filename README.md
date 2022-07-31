@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="40" width="40"/>
-<img src="https://www.flaticon.com/free-icon/ethereum_6001368" alt="ethereum" height="40" width="40">
+<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="ethereum" height="40" width="40">
                                                                                                                                          
 ### Stats
 <br>

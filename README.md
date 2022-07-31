@@ -9,10 +9,10 @@
 - 📫 How to reach me: ...
 <br>
 <a href="https://twitter.com/Prahmodh_Raj">
-  <img align="center" alt="Prahmodh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Prahmodh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prahmodh-r">
-  <img align="center" alt="Prahmodh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Prahmodh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
 - 😄 Pronouns: he/him

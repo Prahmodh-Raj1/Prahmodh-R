@@ -8,12 +8,14 @@
 <br>
 - 📫 How to reach me: ...
 <br>
+<center>
 <a href="https://twitter.com/Prahmodh_Raj">
   <img align="right" alt="Prahmodh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prahmodh-r">
   <img align="right" alt="Prahmodh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</center>
 <br>
 - 😄 Pronouns: he/him
 

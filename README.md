@@ -3,7 +3,7 @@
 <h3 align="center">
 <a href="https://twitter.com/Prahmodh_Raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Prahmodh" height="50" width="50" /></a>
 <a href="[https://www.linkedin.com/in/prahmodh-r]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prahmodh-r" height="50" width="50" /></a>
-<a href="[https://leetcode.com/Prahmodh_181/]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Prahmodh_181/" height="50" width="50" /></a>
+<a href="https://leetcode.com/Prahmodh_181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Prahmodh_181/" height="50" width="50" /></a>
   </h3>
 
 
@@ -34,7 +34,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="mongodb" width="40" height="40"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="40" width="40"/>
+<img src="https://www.flaticon.com/free-icon/ethereum_6001368" alt="ethereum" height="40" width="40">
                                                                                                                                          
 ### Stats
 <br>

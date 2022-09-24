@@ -12,7 +12,7 @@
 
 - Currently learning **Full Stack Web 3.0 Development**
 
-- 💬 Ask me about **React  Kubernetes  NodeJS**
+- 💬 Ask me about **React  Kubernetes  Solidity**
 
 - 📫 How to reach me **prahmodhr@gmail.com**
 

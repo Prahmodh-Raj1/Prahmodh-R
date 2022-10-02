@@ -3,7 +3,7 @@
 <h3 align="center">
 <a href="https://twitter.com/Prahmodh_Raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Prahmodh" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/prahmodh-r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prahmodh-r" height="50" width="50" /></a>
-<a href="https://leetcode.com/Prahmodh_181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Prahmodh_181/" height="50" width="50" /></a>
+
   </h3>
 
 

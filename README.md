@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React  Kubernetes  Solidity**
 
-- 📫 How to reach me **prahmodhr@gmail.com**
+- 📫 How to reach me **pramodhr181@gmail.com**
 
 ### Technologies
 <p align="left"> 
